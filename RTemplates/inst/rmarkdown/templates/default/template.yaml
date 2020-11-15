@@ -1,2 +1,4 @@
 name: Default
-description: This is my template
+description: >
+   Default template for Brickman's lab projects
+create_dir: TRUE
